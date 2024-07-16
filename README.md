@@ -1,4 +1,4 @@
-![Imgur](https://i.imgur.com/s7BLsQO.png)
+
 
 <h1 align = "center">
   Literalura
